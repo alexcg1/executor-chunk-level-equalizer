@@ -1,3 +1,5 @@
 manifest_version: 1
 name: TextChunkLevelEqualizer
 description: "Put all text chunks on doc.chunks level, not lower traversal levels"
+url: "https://github.com/alexcg1/executor-chunk-level-equalizer"
+keywords: [text, traversal, chunks, pdf]

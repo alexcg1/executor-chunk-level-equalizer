@@ -1,4 +1,4 @@
-jtype: ChunkLevelEqualizer
+jtype: TextChunkLevelEqualizer
 metas:
   py_modules:
     - executor.py
